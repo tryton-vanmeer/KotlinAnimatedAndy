@@ -2,6 +2,10 @@
 
 Playing around with Kotlin and AnimatedVectorDrawables
 
+### Screenshots
+[<img src="images/screenshot.png" width=160>](images/screenshot-waving.mp4)
+[<img src="images/screenshot.png" width=160>](images/screenshot-laughing.mp4)
+
 ### License
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
