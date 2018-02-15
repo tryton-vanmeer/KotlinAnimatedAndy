@@ -13,10 +13,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val drawableWaving = getDrawable(R.drawable.ic_animated_andy_waving)
+        val drawableWaving = getDrawable(R.drawable.animated_andy_waving)
+        val drawableLaughing = getDrawable(R.drawable.animated_andy_laughing)
 
         buttonWave.setOnClickListener {
             imageAndy.setImageDrawable(drawableWaving)
+            (imageAndy.drawable as Animatable).start()
+        }
+
+        buttonLaugh.setOnClickListener {
+            imageAndy.setImageDrawable(drawableLaughing)
             (imageAndy.drawable as Animatable).start()
         }
     }

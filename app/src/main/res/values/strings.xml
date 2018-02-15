@@ -2,5 +2,6 @@
     <string name="app_name">Kotlin Animated Andy</string>
 
     <string name="button_wave">Wave</string>
+    <string name="button_laugh">Laugh</string>
     <string name="content_description_android_logo">Android Logo</string>
 </resources>
