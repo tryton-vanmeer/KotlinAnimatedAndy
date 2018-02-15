@@ -3,8 +3,8 @@
 Playing around with Kotlin and AnimatedVectorDrawables
 
 ### Screenshots
-[<img src="images/screenshot.png" width=160>](images/screenshot-waving.mp4)
-[<img src="images/screenshot.png" width=160>](images/screenshot-laughing.mp4)
+[<img src="images/screenshot-waving.gif" width=160>](images/screenshot-waving.gif)
+[<img src="images/screenshot-laughing.gif" width=160>](images/screenshot-laughing.gif)
 
 ### License
 This program is free software: you can redistribute it and/or modify
